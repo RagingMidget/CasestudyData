@@ -1,13 +1,13 @@
 {
   "brands": [
-    { "name": "Razer" },
-    { "name": "SteelSeries" },
-    { "name": "Corsair" }
+    { "id": 1002, "name": "Razer" },
+    { "id": 1003, "name": "SteelSeries" },
+    { "id": 1004, "name": "Corsair" }
   ],
   "products": [
     {
       "id": "RAZ001",
-      "brandName": "Razer",
+      "brandId": 1002,
       "productName": "Razer BlackWidow V3 Keyboard",
       "graphicName": "blackwidow.png",
       "costPrice": 90,
@@ -18,7 +18,7 @@
     },
     {
       "id": "RAZ002",
-      "brandName": "Razer",
+      "brandId": 1002,
       "productName": "Razer DeathAdder V2 Mouse",
       "graphicName": "deathadder.png",
       "costPrice": 45,
@@ -29,7 +29,7 @@
     },
     {
       "id": "RAZ003",
-      "brandName": "Razer",
+      "brandId": 1002,
       "productName": "Razer Kraken X Headset",
       "graphicName": "kraken.png",
       "costPrice": 35,
@@ -40,7 +40,7 @@
     },
     {
       "id": "RAZ004",
-      "brandName": "Razer",
+      "brandId": 1002,
       "productName": "Razer Goliathus Mouse Mat",
       "graphicName": "goliathus.png",
       "costPrice": 10,
@@ -51,7 +51,7 @@
     },
     {
       "id": "RAZ005",
-      "brandName": "Razer",
+      "brandId": 1002,
       "productName": "Razer Kishi Mobile Controller",
       "graphicName": "kishi.png",
       "costPrice": 55,
@@ -62,7 +62,7 @@
     },
     {
       "id": "STS001",
-      "brandName": "SteelSeries",
+      "brandId": 1003,
       "productName": "SteelSeries Arctis 7 Headset",
       "graphicName": "arctis7.png",
       "costPrice": 80,
@@ -73,7 +73,7 @@
     },
     {
       "id": "STS002",
-      "brandName": "SteelSeries",
+      "brandId": 1003,
       "productName": "SteelSeries Rival 600 Mouse",
       "graphicName": "rival600.png",
       "costPrice": 55,
@@ -84,7 +84,7 @@
     },
     {
       "id": "STS003",
-      "brandName": "SteelSeries",
+      "brandId": 1003,
       "productName": "SteelSeries Apex Pro Keyboard",
       "graphicName": "apexpro.png",
       "costPrice": 130,
@@ -95,7 +95,7 @@
     },
     {
       "id": "STS004",
-      "brandName": "SteelSeries",
+      "brandId": 1003,
       "productName": "SteelSeries QcK Prism Cloth Pad",
       "graphicName": "qckprism.png",
       "costPrice": 35,
@@ -106,7 +106,7 @@
     },
     {
       "id": "STS005",
-      "brandName": "SteelSeries",
+      "brandId": 1003,
       "productName": "SteelSeries Stratus Duo Controller",
       "graphicName": "stratusduo.png",
       "costPrice": 50,
@@ -117,7 +117,7 @@
     },
     {
       "id": "COR001",
-      "brandName": "Corsair",
+      "brandId": 1004,
       "productName": "Corsair K70 RGB PRO Keyboard",
       "graphicName": "k70.png",
       "costPrice": 95,
@@ -128,7 +128,7 @@
     },
     {
       "id": "COR002",
-      "brandName": "Corsair",
+      "brandId": 1004,
       "productName": "Corsair HS60 PRO Headset",
       "graphicName": "hs60.png",
       "costPrice": 55,
@@ -139,7 +139,7 @@
     },
     {
       "id": "COR003",
-      "brandName": "Corsair",
+      "brandId": 1004,
       "productName": "Corsair M65 RGB ELITE Mouse",
       "graphicName": "m65.png",
       "costPrice": 45,
@@ -150,7 +150,7 @@
     },
     {
       "id": "COR004",
-      "brandName": "Corsair",
+      "brandId": 1004,
       "productName": "Corsair T1 Gaming Chair",
       "graphicName": "t1chair.png",
       "costPrice": 210,
@@ -161,7 +161,7 @@
     },
     {
       "id": "COR005",
-      "brandName": "Corsair",
+      "brandId": 1004,
       "productName": "Corsair ST100 RGB Headset Stand",
       "graphicName": "stand.png",
       "costPrice": 50,
