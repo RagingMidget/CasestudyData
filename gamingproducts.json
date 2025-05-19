@@ -1,18 +1,5 @@
 [
   {
-    "BrandId": 1002,
-    "Name": "Razer"
-  },
-  {
-    "BrandId": 1003,
-    "Name": "SteelSeries"
-  },
-  {
-   
-    "BrandId": 1004,
-    "Name": "Corsair"
-  },
-  {
     
     "Id": "RAZ001",
     "BrandId": 1002,
