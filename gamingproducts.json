@@ -1,21 +1,19 @@
 [
   {
-    "TYPE": "brand",
     "BrandId": 1002,
     "Name": "Razer"
   },
   {
-    "TYPE": "brand",
     "BrandId": 1003,
     "Name": "SteelSeries"
   },
   {
-    "TYPE": "brand",
+   
     "BrandId": 1004,
     "Name": "Corsair"
   },
   {
-    "TYPE": "product",
+    
     "Id": "RAZ001",
     "BrandId": 1002,
     "ProductName": "Razer BlackWidow V3 Keyboard",
@@ -27,7 +25,7 @@
     "Description": "Mechanical gaming keyboard with RGB lighting and durable switches for intense gaming sessions."
   },
   {
-    "TYPE": "product",
+   
     "Id": "RAZ002",
     "BrandId": 1002,
     "ProductName": "Razer DeathAdder V2 Mouse",
@@ -39,7 +37,7 @@
     "Description": "Ergonomic gaming mouse with precision sensor and customizable buttons."
   },
   {
-    "TYPE": "product",
+   
     "Id": "RAZ003",
     "BrandId": 1002,
     "ProductName": "Razer Kraken X Headset",
@@ -51,7 +49,7 @@
     "Description": "Lightweight gaming headset with surround sound and noise-isolating microphone."
   },
   {
-    "TYPE": "product",
+    
     "Id": "RAZ004",
     "BrandId": 1002,
     "ProductName": "Razer Goliathus Mouse Mat",
@@ -63,7 +61,7 @@
     "Description": "Soft gaming mouse pad optimized for speed and control."
   },
   {
-    "TYPE": "product",
+   
     "Id": "RAZ005",
     "BrandId": 1002,
     "ProductName": "Razer Kishi Mobile Controller",
@@ -75,7 +73,7 @@
     "Description": "Universal mobile gaming controller with low-latency gameplay experience."
   },
   {
-    "TYPE": "product",
+    
     "Id": "STS001",
     "BrandId": 1003,
     "ProductName": "SteelSeries Arctis 7 Headset",
@@ -87,7 +85,7 @@
     "Description": "Wireless gaming headset with low latency audio and long battery life."
   },
   {
-    "TYPE": "product",
+   
     "Id": "STS002",
     "BrandId": 1003,
     "ProductName": "SteelSeries Rival 600 Mouse",
@@ -99,7 +97,7 @@
     "Description": "Dual-sensor gaming mouse with adjustable weight system."
   },
   {
-    "TYPE": "product",
+   
     "Id": "STS003",
     "BrandId": 1003,
     "ProductName": "SteelSeries Apex Pro Keyboard",
@@ -111,7 +109,7 @@
     "Description": "Mechanical keyboard with customizable actuation and RGB lighting."
   },
   {
-    "TYPE": "product",
+   
     "Id": "STS004",
     "BrandId": 1003,
     "ProductName": "SteelSeries QcK Prism Cloth Pad",
@@ -123,7 +121,7 @@
     "Description": "RGB mouse pad with micro-woven cloth for high-precision tracking."
   },
   {
-    "TYPE": "product",
+   
     "Id": "STS005",
     "BrandId": 1003,
     "ProductName": "SteelSeries Stratus Duo Controller",
@@ -135,7 +133,7 @@
     "Description": "Wireless gaming controller for Android, Windows, and VR platforms."
   },
   {
-    "TYPE": "product",
+    
     "Id": "COR001",
     "BrandId": 1004,
     "ProductName": "Corsair K70 RGB PRO Keyboard",
@@ -147,7 +145,7 @@
     "Description": "Premium mechanical keyboard with per-key RGB and fast response time."
   },
   {
-    "TYPE": "product",
+   
     "Id": "COR002",
     "BrandId": 1004,
     "ProductName": "Corsair HS60 PRO Headset",
@@ -159,7 +157,6 @@
     "Description": "Gaming headset with 7.1 surround sound and adjustable memory foam earcups."
   },
   {
-    "TYPE": "product",
     "Id": "COR003",
     "BrandId": 1004,
     "ProductName": "Corsair M65 RGB ELITE Mouse",
@@ -171,7 +168,7 @@
     "Description": "Tunable gaming mouse with sniper button and high DPI precision."
   },
   {
-    "TYPE": "product",
+   
     "Id": "COR004",
     "BrandId": 1004,
     "ProductName": "Corsair T1 Gaming Chair",
@@ -183,7 +180,7 @@
     "Description": "Ergonomic gaming chair with adjustable armrests and a racing-inspired design."
   },
   {
-    "TYPE": "product",
+   
     "Id": "COR005",
     "BrandId": 1004,
     "ProductName": "Corsair ST100 RGB Headset Stand",
