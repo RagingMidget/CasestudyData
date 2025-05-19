@@ -1,174 +1,197 @@
-{
-  "brands": [
-    { "id": 1002, "name": "Razer" },
-    { "id": 1003, "name": "SteelSeries" },
-    { "id": 1004, "name": "Corsair" }
-  ],
-  "products": [
-    {
-      "id": "RAZ001",
-      "brandId": 1002,
-      "productName": "Razer BlackWidow V3 Keyboard",
-      "graphicName": "blackwidow.png",
-      "costPrice": 90,
-      "msrp": 129,
-      "qtyOnHand": 50,
-      "qtyOnBackOrder": 5,
-      "description": "Mechanical gaming keyboard with RGB lighting and durable switches for intense gaming sessions."
-    },
-    {
-      "id": "RAZ002",
-      "brandId": 1002,
-      "productName": "Razer DeathAdder V2 Mouse",
-      "graphicName": "deathadder.png",
-      "costPrice": 45,
-      "msrp": 69,
-      "qtyOnHand": 75,
-      "qtyOnBackOrder": 3,
-      "description": "Ergonomic gaming mouse with precision sensor and customizable buttons."
-    },
-    {
-      "id": "RAZ003",
-      "brandId": 1002,
-      "productName": "Razer Kraken X Headset",
-      "graphicName": "kraken.png",
-      "costPrice": 35,
-      "msrp": 49,
-      "qtyOnHand": 60,
-      "qtyOnBackOrder": 2,
-      "description": "Lightweight gaming headset with surround sound and noise-isolating microphone."
-    },
-    {
-      "id": "RAZ004",
-      "brandId": 1002,
-      "productName": "Razer Goliathus Mouse Mat",
-      "graphicName": "goliathus.png",
-      "costPrice": 10,
-      "msrp": 19,
-      "qtyOnHand": 100,
-      "qtyOnBackOrder": 0,
-      "description": "Soft gaming mouse pad optimized for speed and control."
-    },
-    {
-      "id": "RAZ005",
-      "brandId": 1002,
-      "productName": "Razer Kishi Mobile Controller",
-      "graphicName": "kishi.png",
-      "costPrice": 55,
-      "msrp": 79,
-      "qtyOnHand": 40,
-      "qtyOnBackOrder": 1,
-      "description": "Universal mobile gaming controller with low-latency gameplay experience."
-    },
-    {
-      "id": "STS001",
-      "brandId": 1003,
-      "productName": "SteelSeries Arctis 7 Headset",
-      "graphicName": "arctis7.png",
-      "costPrice": 80,
-      "msrp": 119,
-      "qtyOnHand": 45,
-      "qtyOnBackOrder": 2,
-      "description": "Wireless gaming headset with low latency audio and long battery life."
-    },
-    {
-      "id": "STS002",
-      "brandId": 1003,
-      "productName": "SteelSeries Rival 600 Mouse",
-      "graphicName": "rival600.png",
-      "costPrice": 55,
-      "msrp": 89,
-      "qtyOnHand": 70,
-      "qtyOnBackOrder": 4,
-      "description": "Dual-sensor gaming mouse with adjustable weight system."
-    },
-    {
-      "id": "STS003",
-      "brandId": 1003,
-      "productName": "SteelSeries Apex Pro Keyboard",
-      "graphicName": "apexpro.png",
-      "costPrice": 130,
-      "msrp": 179,
-      "qtyOnHand": 30,
-      "qtyOnBackOrder": 5,
-      "description": "Mechanical keyboard with customizable actuation and RGB lighting."
-    },
-    {
-      "id": "STS004",
-      "brandId": 1003,
-      "productName": "SteelSeries QcK Prism Cloth Pad",
-      "graphicName": "qckprism.png",
-      "costPrice": 35,
-      "msrp": 49,
-      "qtyOnHand": 25,
-      "qtyOnBackOrder": 1,
-      "description": "RGB mouse pad with micro-woven cloth for high-precision tracking."
-    },
-    {
-      "id": "STS005",
-      "brandId": 1003,
-      "productName": "SteelSeries Stratus Duo Controller",
-      "graphicName": "stratusduo.png",
-      "costPrice": 50,
-      "msrp": 69,
-      "qtyOnHand": 20,
-      "qtyOnBackOrder": 2,
-      "description": "Wireless gaming controller for Android, Windows, and VR platforms."
-    },
-    {
-      "id": "COR001",
-      "brandId": 1004,
-      "productName": "Corsair K70 RGB PRO Keyboard",
-      "graphicName": "k70.png",
-      "costPrice": 95,
-      "msrp": 139,
-      "qtyOnHand": 35,
-      "qtyOnBackOrder": 3,
-      "description": "Premium mechanical keyboard with per-key RGB and fast response time."
-    },
-    {
-      "id": "COR002",
-      "brandId": 1004,
-      "productName": "Corsair HS60 PRO Headset",
-      "graphicName": "hs60.png",
-      "costPrice": 55,
-      "msrp": 79,
-      "qtyOnHand": 50,
-      "qtyOnBackOrder": 0,
-      "description": "Gaming headset with 7.1 surround sound and adjustable memory foam earcups."
-    },
-    {
-      "id": "COR003",
-      "brandId": 1004,
-      "productName": "Corsair M65 RGB ELITE Mouse",
-      "graphicName": "m65.png",
-      "costPrice": 45,
-      "msrp": 69,
-      "qtyOnHand": 60,
-      "qtyOnBackOrder": 4,
-      "description": "Tunable gaming mouse with sniper button and high DPI precision."
-    },
-    {
-      "id": "COR004",
-      "brandId": 1004,
-      "productName": "Corsair T1 Gaming Chair",
-      "graphicName": "t1chair.png",
-      "costPrice": 210,
-      "msrp": 299,
-      "qtyOnHand": 15,
-      "qtyOnBackOrder": 2,
-      "description": "Ergonomic gaming chair with adjustable armrests and a racing-inspired design."
-    },
-    {
-      "id": "COR005",
-      "brandId": 1004,
-      "productName": "Corsair ST100 RGB Headset Stand",
-      "graphicName": "stand.png",
-      "costPrice": 50,
-      "msrp": 69,
-      "qtyOnHand": 40,
-      "qtyOnBackOrder": 1,
-      "description": "Aluminum headset stand with built-in 7.1 surround DAC and RGB base."
-    }
-  ]
-}
+[
+  {
+    "TYPE": "brand",
+    "BrandId": 1002,
+    "Name": "Razer"
+  },
+  {
+    "TYPE": "brand",
+    "BrandId": 1003,
+    "Name": "SteelSeries"
+  },
+  {
+    "TYPE": "brand",
+    "BrandId": 1004,
+    "Name": "Corsair"
+  },
+  {
+    "TYPE": "product",
+    "Id": "RAZ001",
+    "BrandId": 1002,
+    "ProductName": "Razer BlackWidow V3 Keyboard",
+    "GraphicName": "blackwidow.png",
+    "CostPrice": 90,
+    "MSRP": 129,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 5,
+    "Description": "Mechanical gaming keyboard with RGB lighting and durable switches for intense gaming sessions."
+  },
+  {
+    "TYPE": "product",
+    "Id": "RAZ002",
+    "BrandId": 1002,
+    "ProductName": "Razer DeathAdder V2 Mouse",
+    "GraphicName": "deathadder.png",
+    "CostPrice": 45,
+    "MSRP": 69,
+    "QtyOnHand": 75,
+    "QtyOnBackOrder": 3,
+    "Description": "Ergonomic gaming mouse with precision sensor and customizable buttons."
+  },
+  {
+    "TYPE": "product",
+    "Id": "RAZ003",
+    "BrandId": 1002,
+    "ProductName": "Razer Kraken X Headset",
+    "GraphicName": "kraken.png",
+    "CostPrice": 35,
+    "MSRP": 49,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 2,
+    "Description": "Lightweight gaming headset with surround sound and noise-isolating microphone."
+  },
+  {
+    "TYPE": "product",
+    "Id": "RAZ004",
+    "BrandId": 1002,
+    "ProductName": "Razer Goliathus Mouse Mat",
+    "GraphicName": "goliathus.png",
+    "CostPrice": 10,
+    "MSRP": 19,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 0,
+    "Description": "Soft gaming mouse pad optimized for speed and control."
+  },
+  {
+    "TYPE": "product",
+    "Id": "RAZ005",
+    "BrandId": 1002,
+    "ProductName": "Razer Kishi Mobile Controller",
+    "GraphicName": "kishi.png",
+    "CostPrice": 55,
+    "MSRP": 79,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 1,
+    "Description": "Universal mobile gaming controller with low-latency gameplay experience."
+  },
+  {
+    "TYPE": "product",
+    "Id": "STS001",
+    "BrandId": 1003,
+    "ProductName": "SteelSeries Arctis 7 Headset",
+    "GraphicName": "arctis7.png",
+    "CostPrice": 80,
+    "MSRP": 119,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 2,
+    "Description": "Wireless gaming headset with low latency audio and long battery life."
+  },
+  {
+    "TYPE": "product",
+    "Id": "STS002",
+    "BrandId": 1003,
+    "ProductName": "SteelSeries Rival 600 Mouse",
+    "GraphicName": "rival600.png",
+    "CostPrice": 55,
+    "MSRP": 89,
+    "QtyOnHand": 70,
+    "QtyOnBackOrder": 4,
+    "Description": "Dual-sensor gaming mouse with adjustable weight system."
+  },
+  {
+    "TYPE": "product",
+    "Id": "STS003",
+    "BrandId": 1003,
+    "ProductName": "SteelSeries Apex Pro Keyboard",
+    "GraphicName": "apexpro.png",
+    "CostPrice": 130,
+    "MSRP": 179,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 5,
+    "Description": "Mechanical keyboard with customizable actuation and RGB lighting."
+  },
+  {
+    "TYPE": "product",
+    "Id": "STS004",
+    "BrandId": 1003,
+    "ProductName": "SteelSeries QcK Prism Cloth Pad",
+    "GraphicName": "qckprism.png",
+    "CostPrice": 35,
+    "MSRP": 49,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 1,
+    "Description": "RGB mouse pad with micro-woven cloth for high-precision tracking."
+  },
+  {
+    "TYPE": "product",
+    "Id": "STS005",
+    "BrandId": 1003,
+    "ProductName": "SteelSeries Stratus Duo Controller",
+    "GraphicName": "stratusduo.png",
+    "CostPrice": 50,
+    "MSRP": 69,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 2,
+    "Description": "Wireless gaming controller for Android, Windows, and VR platforms."
+  },
+  {
+    "TYPE": "product",
+    "Id": "COR001",
+    "BrandId": 1004,
+    "ProductName": "Corsair K70 RGB PRO Keyboard",
+    "GraphicName": "k70.png",
+    "CostPrice": 95,
+    "MSRP": 139,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 3,
+    "Description": "Premium mechanical keyboard with per-key RGB and fast response time."
+  },
+  {
+    "TYPE": "product",
+    "Id": "COR002",
+    "BrandId": 1004,
+    "ProductName": "Corsair HS60 PRO Headset",
+    "GraphicName": "hs60.png",
+    "CostPrice": 55,
+    "MSRP": 79,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 0,
+    "Description": "Gaming headset with 7.1 surround sound and adjustable memory foam earcups."
+  },
+  {
+    "TYPE": "product",
+    "Id": "COR003",
+    "BrandId": 1004,
+    "ProductName": "Corsair M65 RGB ELITE Mouse",
+    "GraphicName": "m65.png",
+    "CostPrice": 45,
+    "MSRP": 69,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 4,
+    "Description": "Tunable gaming mouse with sniper button and high DPI precision."
+  },
+  {
+    "TYPE": "product",
+    "Id": "COR004",
+    "BrandId": 1004,
+    "ProductName": "Corsair T1 Gaming Chair",
+    "GraphicName": "t1chair.png",
+    "CostPrice": 210,
+    "MSRP": 299,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 2,
+    "Description": "Ergonomic gaming chair with adjustable armrests and a racing-inspired design."
+  },
+  {
+    "TYPE": "product",
+    "Id": "COR005",
+    "BrandId": 1004,
+    "ProductName": "Corsair ST100 RGB Headset Stand",
+    "GraphicName": "stand.png",
+    "CostPrice": 50,
+    "MSRP": 69,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 1,
+    "Description": "Aluminum headset stand with built-in 7.1 surround DAC and RGB base."
+  }
+]
